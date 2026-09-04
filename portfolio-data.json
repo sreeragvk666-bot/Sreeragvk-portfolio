@@ -1,0 +1,102 @@
+{
+  "profile": {
+    "name": "Sreerag VK",
+    "role": "AI & Data Science Graduate · Full-stack Developer",
+    "headlineLeading": "I turn practical problems into ",
+    "headlineEmphasis": "useful software.",
+    "summary": "I am Sreerag VK, a B.Tech graduate focused on building reliable web applications with JavaScript, React, Node.js, Express, and databases.",
+    "focus": "Currently focused on",
+    "availability": "Open to opportunities",
+    "email": "sreeragvk666@gmail.com",
+    "phoneDisplay": "+91 80754 92961",
+    "phoneLink": "+918075492961",
+    "socialText": "GitHub · LinkedIn",
+    "stats": [
+      { "value": "50+", "label": "DSA problems solved" },
+      { "value": "2026", "label": "B.Tech graduation" }
+    ]
+  },
+  "highlights": [
+    { "number": "01", "text": "Full-stack web applications" },
+    { "number": "02", "text": "AI & API integrations" },
+    { "number": "03", "text": "Data and software fundamentals" }
+  ],
+  "about": [
+    "I have hands-on experience developing full-stack web applications and a strong foundation in Core Java, OOP, SQL, REST APIs, and software development fundamentals.",
+    "I enjoy breaking down real-world problems, learning modern tools, and improving through consistent practice with data structures and algorithms."
+  ],
+  "skills": [
+    {
+      "number": "01",
+      "title": "Languages",
+      "description": "Java, JavaScript (ES6+), Python, SQL, and C."
+    },
+    {
+      "number": "02",
+      "title": "Web development",
+      "description": "React.js, Node.js, Express.js, REST APIs, PostgreSQL, MongoDB, and Tailwind CSS."
+    },
+    {
+      "number": "03",
+      "title": "Engineering practice",
+      "description": "Git, GitHub, Postman, Cloudinary, Docker basics, testing, and debugging."
+    },
+    {
+      "number": "04",
+      "title": "Fundamentals",
+      "description": "Data structures, algorithms, OOP, DBMS, operating systems, and networks."
+    }
+  ],
+  "projects": [
+    {
+      "label": "01 / Full stack",
+      "type": "AI SaaS Platform",
+      "title": "AI content and media processing platform.",
+      "description": "Built a full-stack platform with secure JWT authentication, dynamic API pipelines, Cloudinary storage, and reusable React components.",
+      "featured": true,
+      "points": [
+        "Integrated OpenAI and ClipDrop APIs with queue handling.",
+        "Optimized PostgreSQL queries for lower latency.",
+        "Built with React, Node.js, Express, PostgreSQL, and Cloudinary."
+      ]
+    },
+    {
+      "label": "02 / Python",
+      "type": "Blockchain",
+      "title": "Fake medicine identification system.",
+      "description": "Developed a Python blockchain framework designed to help identify counterfeit pharmaceuticals across a supply chain.",
+      "featured": false,
+      "points": [
+        "Created immutable blocks using SHA-256 cryptography.",
+        "Added dynamic QR verification for quick validation.",
+        "Focused on traceability and ledger integrity."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Intern",
+      "company": "COFSO Technologies LLP",
+      "title": "AI & Machine Learning Integration",
+      "description": "Designed ML workflow modules for API pipelines, improved Python data-preprocessing scripts, and contributed to testing, debugging, and code reviews."
+    },
+    {
+      "role": "Data Analyst Intern",
+      "company": "Robomatiic",
+      "title": "Data Engineering & Analytics",
+      "description": "Built SQL and data-extraction scripts, developed KPI dashboards, and cleaned raw datasets with Python tools such as Pandas and NumPy."
+    }
+  ],
+  "education": [
+    {
+      "label": "2022 - 2026",
+      "title": "B.Tech in Artificial Intelligence & Data Science",
+      "description": "Dhanalakshmi Srinivasan College of Engineering · CGPA 7.65"
+    },
+    {
+      "label": "Achievement",
+      "title": "50+ DSA problems solved",
+      "description": "Practiced algorithmic problem solving on LeetCode and GeeksforGeeks using Java."
+    }
+  ]
+}
